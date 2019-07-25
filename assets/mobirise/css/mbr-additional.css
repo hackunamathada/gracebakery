@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px:400);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
@@ -20,7 +21,7 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Slabo 27px', serif;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
@@ -588,8 +589,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
+#scrollToTop a {
+  border-radius: 100px;
 }
 #scrollToTop a i:before {
   content: '';
@@ -1562,7 +1563,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-rhbb6NvaE8 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1627,6 +1628,10 @@ body {
 .cid-rhbb6NvaE8 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item,
 .cid-rhbb6NvaE8 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
+}
+.cid-rhbb6NvaE8 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rhbb6NvaE8 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
 }
 .cid-rhbb6NvaE8 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rhbb6NvaE8 .collapsed .navbar-collapse.show .navbar-buttons {
@@ -1722,6 +1727,10 @@ body {
   .cid-rhbb6NvaE8 .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rhbb6NvaE8 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-rhbb6NvaE8 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rhbb6NvaE8 .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rhbb6NvaE8 .navbar-collapse.collapsing .navbar-buttons,
   .cid-rhbb6NvaE8 .navbar-collapse.show .navbar-buttons {
@@ -2076,9 +2085,9 @@ body {
   color: #767676;
 }
 .cid-rhX6XVnmmn {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/mbr-1920x1097.jpg");
 }
 .cid-rhX6XVnmmn .mbr-iconfont {
   font-size: 48px;
@@ -2416,7 +2425,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-rhbb6NvaE8 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2481,6 +2490,10 @@ body {
 .cid-rhbb6NvaE8 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item,
 .cid-rhbb6NvaE8 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
+}
+.cid-rhbb6NvaE8 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rhbb6NvaE8 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
 }
 .cid-rhbb6NvaE8 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rhbb6NvaE8 .collapsed .navbar-collapse.show .navbar-buttons {
@@ -2576,6 +2589,10 @@ body {
   .cid-rhbb6NvaE8 .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rhbb6NvaE8 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-rhbb6NvaE8 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rhbb6NvaE8 .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rhbb6NvaE8 .navbar-collapse.collapsing .navbar-buttons,
   .cid-rhbb6NvaE8 .navbar-collapse.show .navbar-buttons {
