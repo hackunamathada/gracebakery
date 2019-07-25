@@ -1628,10 +1628,6 @@ body {
 .cid-rhbb6NvaE8 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-rhbb6NvaE8 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-rhbb6NvaE8 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-rhbb6NvaE8 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rhbb6NvaE8 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1726,10 +1722,6 @@ body {
   .cid-rhbb6NvaE8 .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rhbb6NvaE8 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-rhbb6NvaE8 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-rhbb6NvaE8 .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-rhbb6NvaE8 .navbar-collapse.collapsing .navbar-buttons,
   .cid-rhbb6NvaE8 .navbar-collapse.show .navbar-buttons {
@@ -2490,10 +2482,6 @@ body {
 .cid-rhbb6NvaE8 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-rhbb6NvaE8 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-rhbb6NvaE8 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-rhbb6NvaE8 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rhbb6NvaE8 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2589,10 +2577,6 @@ body {
   .cid-rhbb6NvaE8 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
-  .cid-rhbb6NvaE8 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-rhbb6NvaE8 .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
-  }
   .cid-rhbb6NvaE8 .navbar-collapse.collapsing .navbar-buttons,
   .cid-rhbb6NvaE8 .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -2656,8 +2640,8 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rx9gO5ENmu {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 90px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-rx9gO5ENmu .mbr-slider .carousel-control {
